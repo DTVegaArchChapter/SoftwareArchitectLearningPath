@@ -4,7 +4,7 @@
 
 Before moving to architecture, solid software engineering skills are essential.
 
-- **Programming Languages:** Proficiency in at least two programming languages (C#, Java, Go, Python, or JavaScript, Scala, F# etc.). Deep understanding of Object-Oriented Programming (OOP) and Functional Programming (FP).
+- **Programming Languages:** Proficiency in at least two programming languages (C#, Java, Go, Python, Rust, C/C++, or JavaScript, Scala, F# etc.). Deep understanding of Object-Oriented Programming (OOP) and Functional Programming (FP).
 - **Data Structures & Algorithms:** Understand Big O notation, trees, graphs, distributed algorithms, and optimization techniques.  
 - **Software Design Patterns:** Learn SOLID principles, GoF design patterns, and domain-driven design (DDD).  
 - **Version Control & CI/CD:** Get comfortable with Git and workflows like GitFlow or trunk-based development, GitHub Actions, Jenkins, and automated deployments.  
