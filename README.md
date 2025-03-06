@@ -17,7 +17,7 @@ Before moving to architecture, solid software engineering skills are essential.
 Start understanding how to structure applications beyond individual components.
 
 - **System Design:** Understand client-server architecture, RESTful APIs, and HTTP protocols. Learn about scalability, high availability, load balancing, and caching strategies. Learn to design simple, scalable systems. Design large-scale, distributed systems. Create detailed architecture diagrams and workflows.
-- **Architectural Patterns:** Study layered, hexagonal, microservices, event-driven, SOA and CQRS architectures.  
+- **Architectural Patterns:** Study layered, onion, hexagonal, clean, vertical slice, microservices, event-driven, SOA and CQRS architectures.  
 - **API Design:** Understand REST, GraphQL, and gRPC, along with API versioning and security best practices.  
 - **Databases:** Master SQL (PostgreSQL, MySQL, Sql Server, Oracle) and NoSQL (MongoDB, Redis, Cassandra) and database modeling.  
 - **Cloud Computing:** Explore AWS, Azure, or GCP services (compute, storage, networking, serverless). Learn Infrastructure as Code (IaC) (Terraform, CloudFormation etc.), Kubernetes, Docker, and container orchestration.
